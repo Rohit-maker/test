@@ -185,6 +185,8 @@ start-process notepad   ::  to open notepad
 
 Get-alias  :: shortcut of all cmdlets
 
+change
+
  
 
 
